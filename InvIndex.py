@@ -1,4 +1,3 @@
-# H.W 1 - Guy Kozliner (316612662) || Kobi Hazout (205874233)
 import nltk
 import collections
 
